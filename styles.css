@@ -1,6 +1,6 @@
 body {
     margin: 2;
-    overflow: hidden;
+    overflow: visible;
     background: linear-gradient(to left, #03316d, #000000);
   }
   
